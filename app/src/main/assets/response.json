@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "classesTitle": "Yoga",
+    "classesDuration": "10 weeks",
+    "classesDescription": "Yoga is a mind and body practice that originated in ancient India. It combines physical postures, breathing exercises, and meditation or relaxation. Yoga can help to improve flexibility, strength, and balance, as well as reduce stress and anxiety.",
+    "image": "https://images.unsplash.com/photo-1519311965067-36d3e5f33d39?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1171&q=80"
+  },
+  {
+    "id": 2,
+    "classesTitle": "Pilates",
+    "classesDuration": "12 weeks",
+    "classesDescription": "Pilates is a physical fitness system that combines isometric exercises with controlled breathing. It is designed to strengthen the core muscles, improve posture, and flexibility. Pilates can also help to reduce pain and improve overall health and well-being.",
+    "image": "https://images.unsplash.com/photo-1519311965067-36d3e5f33d39?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1171&q=80"
+  },
+  {
+    "id": 3,
+    "classesTitle": "Cardio",
+    "classesDuration": "16 weeks",
+    "classesDescription": "Cardio is a general term for any activity that gets your heart rate up and your blood pumping. Cardio exercises can help to improve cardiovascular health, burn calories, and lose weight. Some popular cardio exercises include running, swimming, biking, and dancing.",
+    "image": "https://images.unsplash.com/photo-1519311965067-36d3e5f33d39?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1171&q=80"
+  },
+  {
+    "id": 4,
+    "classesTitle": "Zumba",
+    "classesDuration": "20 weeks",
+    "classesDescription": "Zumba is a dance fitness program that combines Latin and international music with dance moves. It is a fun and effective way to get a workout, and it can also help to improve your mood and energy levels.",
+    "image": "https://images.unsplash.com/photo-1519311965067-36d3e5f33d39?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1171&q=80"
+  },
+  {
+    "id": 5,
+    "classesTitle": "Barre",
+    "classesDuration": "24 weeks",
+    "classesDescription": "Barre is a fitness class that combines ballet, Pilates, and yoga. It is designed to tone and strengthen the muscles of the legs, core, and arms. Barre can also help to improve posture and flexibility.",
+    "image": "https://images.unsplash.com/photo-1519311965067-36d3e5f33d39?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1171&q=80"
+  },
+  {
+    "id": 6,
+    "classesTitle": "Spin",
+    "classesDuration": "10 weeks",
+    "classesDescription": "Spin is a high-intensity indoor cycling class that uses a stationary bike. It is a great way to burn calories and get a full-body workout. Spin classes are often set to upbeat music, which can help to make the workout more enjoyable.",
+    "image": "https://images.unsplash.com/photo-1519311965067-36d3e5f33d39?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1171&q=80"
+  },
+  {
+    "id": 7,
+    "classesTitle": "Boxing",
+    "classesDuration": "12 weeks",
+    "classesDescription": "Boxing is a combat sport that uses punches to the head and body. It is a great way to get a full-body workout and improve your cardiovascular health. Boxing can also help to build strength, endurance, and coordination.",
+    "image": "https://images.unsplash.com/photo-1519311965067-36d3e5f33d39?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1171&q=80"
+  },
+  {
+    "id": 8,
+    "classesTitle": "Kickboxing",
+    "classesDuration": "16 weeks",
+    "classesDescription": "Kickboxing is a martial art that combines boxing with kicks. It is a great way to get a full-body workout and improve your cardiovascular health. Kickboxing can also help to build strength, endurance, and coordination.",
+    "image": "https://images.unsplash.com/photo-1519311965067-36d3e5f33d39?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1171&q=80"
+  },
+  {
+    "id": 9,
+    "classesTitle": "Swimming",
+    "classesDuration": "20 weeks",
+    "classesDescription": "Swimming is a low-impact exercise that is great for people of all fitness levels. It is a great way to improve cardiovascular health, burn calories, and lose weight. Swimming can also help to improve flexibility and range of motion.",
+    "image": "https://images.unsplash.com/photo-1519311965067-36d3e5f33d39?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1171&q=80"
+  }
+]
